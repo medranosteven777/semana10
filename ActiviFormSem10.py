@@ -8,7 +8,7 @@ df = pd.read_csv('vgsales.csv')
 
 print("Primeros 5 datos son:") 
 print(df.head(5))
-
+#hola crack
 print("Informacion general:")
 print( df.info()) 
  
